@@ -1,0 +1,3 @@
+thisenv/
+*.pyc
+__pycache__/
