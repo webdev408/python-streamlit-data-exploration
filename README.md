@@ -1,6 +1,6 @@
 1. Create a README.me file in the root directory by command: touch README.md
    2.Open the README.md file in vs code editor and write the steps for setting up the environment and using streamlit. Here are the steps:
-   a. in root directory: commandline--python -m venv (name of your environment)
+   a. in root directory: commandline:python -m venv (name of your environment)
    b.activate the environment(name of the environment) with:
    source name of the environment/Scripts/activate.
    Now that the env is active,
